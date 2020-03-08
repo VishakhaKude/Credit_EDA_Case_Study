@@ -11,3 +11,5 @@ Business Objectives:
 Identify patterns which indicate if a client has difficulty paying their instalments.
 Understand the driving factors (or driver variables) behind loan default.
 Utilisation of this knowledge for one’s portfolio and risk assessment.
+
+Datastets - https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
